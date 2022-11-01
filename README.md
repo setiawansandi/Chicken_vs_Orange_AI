@@ -1,1 +1,1 @@
-# image_recognition
+# Chicken_vs_Orange_AI
